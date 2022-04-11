@@ -31,5 +31,8 @@ Used SessionAuthentication to authenticate users before they can do anything rel
 * create superuser - python manage.py createsuperuser
 * run server - python manage.py runserver
 
+# Planned to add:
+* E-mails to users about their tasks ( Propably selery plus django emails sending) - not finished yet
+
   
               
