@@ -26,6 +26,7 @@ Used SessionAuthentication to authenticate users before they can do anything rel
 * Clone the repository - git clone https://github.com/Nemsiuu/DRF-TaskAPI.git
 * run pip install -r requirements.txt inside directory
 * Create new database in MySQL CLI - CREATE DATABASE IF NOT EXISTS zadania;
+    * In Lista/settings.py add user and password to dabase   
 * run - python manage.py migrate
 * create superuser - python manage.py createsuperuser
 * run server - python manage.py runserver
